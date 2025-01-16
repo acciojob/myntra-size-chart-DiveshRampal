@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+table{border-collapse: collapse;
+	
+}
+
+th,td{
+	background-color: indianred;
+	  border:solid black;
+}
