@@ -2,10 +2,11 @@
 /* Your CSS Code here. */
 
 table{border-collapse: collapse;
-	
+	 padding: 15px; 
 }
 
 th,td{
 	background-color: indianred;
 	  border:solid black;
+	 padding: 15px; 
 }
